@@ -1,4 +1,4 @@
-# 🚀 Retro Galaxy Shooter
+o# 🚀 Retro Galaxy Shooter
 
 A futuristic retro-style arcade shooter game made using HTML, CSS, and JavaScript.
 
