@@ -6,4 +6,6 @@ please help me by supporting and enjoying this game
 
 hope you likwe my creation
 
+a futuristic retro style game
+
 :) :) :) :) :) :) :) :) :) :) : ) :)
