@@ -1,11 +1,48 @@
-press SPACE key to shoot continously and use LEFT and RIGHT ARROWS to direct your ship.
+# 🚀 Retro Galaxy Shooter
 
-i used html and css and javascript to make this game on vs code
+A futuristic retro-style arcade shooter game made using HTML, CSS, and JavaScript.
 
-please help me by supporting and enjoying this game 
+## 🎮 Features
 
-hope you likwe my creation
+- Retro arcade gameplay
+- Mobile + desktop support
+- Touch controls
+- Particle explosions
+- Enemy rotation
+- Screen shake effects
+- Custom Game Over screen
+- Restart system
+- Progressive difficulty
+- Neon cyberpunk visuals
 
-a futuristic retro style game
+---
+
+## 🕹️ Controls
+
+### Desktop
+- Arrow Keys → Move
+- Spacebar → Shoot
+
+### Mobile
+- Drag finger to move
+- Auto shooting enabled
+
+---
+
+## ⚡ Gameplay Rules
+
+- Destroy enemies to gain score
+- If enemy touches player → Game Over
+- If enemy escapes screen → Game Over
+- Survive as long as possible
+
+---
+
+## 📁 Project Structure
+
+```text
+index.html
+style.css
+game.js
 
 :) :) :) :) :) :) :) :) :) :) : ) :)
